@@ -12,6 +12,12 @@
 - **[O que é um agente de IA](https://cloud.google.com/discover/what-are-ai-agents?hl=pt-br)**
 
 ### Vídeos Introdutórios
+- **[Agentes de IA (O que são e como trabalhar com eles) // Dicionário do Programador
+](https://youtu.be/wxD8MaD0xXk)**
+- **[O que são AGENTES de IA: APRENDA do ZERO!
+](https://youtu.be/xSHqm8JsqkI)**
+- **[Agentes de IA Explicados: Um Guia Completo para Iniciantes
+](https://youtu.be/Wp95PxRoMS0)**
 - **[AI Agents Explained](https://www.youtube.com/watch?v=F8NKVhkZZWI)** - IBM Technology (15min)
 - **[Building AI Agents from Scratch](https://www.youtube.com/watch?v=DWUdGhRrv2c)** - Fireship (10min, overview rápido)
 
